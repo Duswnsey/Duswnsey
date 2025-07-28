@@ -1,25 +1,61 @@
-🇰🇷 한국인 🇰🇷<br />
-위키 만듦 ㅡ> 현타 ㅡ> 개발 접음 ㅡ> 현타 ㅡ> OS 만드려 함 ㅡ> 어려움 ㅡ> 현타 ㅡ> 개발 접음 ㅡ> 현타
-
-## 좋아하는 언어
-- 자바스크립트
-- 러스트
+# lang
+## I love...
+- 자바스크립트 JavaScript
+- 러스트 Rust
 - C
-- 기계어(asm)
-## 싫어하는 언어
-- 파이썬
-- 자바스크립트
-- cpp
+- 어셈블리 Asm
+## I hate...
+- 파이썬 Python
+- 자바스크립트 JavaScript
 - java
-## 도전 하고싶은 언어
-- go
-- cpp(그래도 한번쯤은)
-- perl
-- php
-- 커리엔더(이걸로 OS 만들 수 있을까)
-- 타잎스크립트
-<br /><br />
-가장 많이 쓴 언어는 자스랑(재작년) 러스트(작년에 입문함.) ~~그리고 아직도 소유권 때문에 고통받는중.~~.  C랑 asm은 주기적으로 씀(메년 1~2개월정도)
-## 공개 레포
-- [wiklim skin](https://github.com/Duswnsey/Wiklim)<br />
-어느 위키 엔진을 위한 스킨.
+등등 대부분의 인터프리터 & 가상머신 언어
+## I wanna learn...
+- Go
+- Zig
+- Carbon
+- c++
+- typescript
+# I tried
+## lang
+ - scratch🐱
+ - python🤮
+ - C🫩
+ - assembly🤯
+ - js😏
+ - rust😎😃😇🥰😍
+ - java😭
+Rust. JS. Go.(I cant use go)
+## Database
+pg, mysql
+## OS
+ - Windows 7
+ - Android
+ - Windows 10
+ - Ubuntu
+ - Windows 11
+ - Gentoo
+ - LFS
+ - Archlinux
+# markups
+ - HTML w. css
+ - MARKDOWN
+ - NAMUMARK
+ - EJS
+ - JSX
+ - VUE
+# I recently use...
+- rust + js + vue + pg on Archlinux With Kate.
+# I can speak
+ - KR(NATIVE)
+ - EG(not good at)
+ - JP(terrible at)
+ - FR(terrible at)
+# I wanna learn
+ - Old Hangul
+ - CN
+# My favorite game is...
+Minecraft. ign:duswnsey, ynjn, imnotkind.
+# Why I use arch
+ - I dont want extra packages. unlike others have.
+ - Fast Update
+ - AUR
